@@ -1,4 +1,4 @@
-Business Insights 360 - Power BI Dashboard for AtliQ Hardware
+#Business Insights 360 - Power BI Dashboard for AtliQ Hardware
 Project Overview
 
 AtliQ Hardware, a prominent global manufacturer, aimed to leverage data-driven insights to empower strategic decision-making across key business domains. Facing challenges in deriving actionable insights from raw data, AtliQ entrusted us with the task of transforming their data into clear, impactful visualizations. Our solution, "Business Insights 360," provides comprehensive, interactive dashboards tailored to AtliQ's operational and strategic needs.
@@ -10,7 +10,7 @@ Tech Skills Acquired
     DAX Studio: Performance optimization for complex reports
     Project Management Tools: Workflow planning and collaboration
 
-Power BI Techniques Utilized
+#Power BI Techniques Utilized
 
 This project incorporated advanced Power BI techniques to maximize dashboard functionality and user experience:
 
@@ -24,7 +24,7 @@ This project incorporated advanced Power BI techniques to maximize dashboard fun
     Data Validation Techniques: Ensured accuracy across all data sources
     Power BI Services: Published and shared reports for secure, remote access
 
-Key Business Terminology
+#Key Business Terminology
 
 The dashboards integrate industry-standard business metrics, providing AtliQ with transparent and meaningful insights:
 
@@ -33,14 +33,14 @@ The dashboards integrate industry-standard business metrics, providing AtliQ wit
     COGS (Cost of Goods Sold)
     YTD (Year to Date), YTG (Year to Go)
 
-DAX Functions Applied
+#DAX Functions Applied
 
 To achieve complex calculations and filtering, we utilized several DAX functions:
 
     CALCULATE, ALLNOBLANKROW, RELATEDTABLE, SAMEPERIODLASTYEAR, SWITCH
     HASONEVALUE, ISCROSSFILTERED, IF, DIVIDE, and more
 
-Visualizations and Interactivity
+#Visualizations and Interactivity
 
 We designed a highly interactive dashboard experience with a variety of visual elements to cater to different analytical needs:
 
